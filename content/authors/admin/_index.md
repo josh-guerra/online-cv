@@ -1,6 +1,6 @@
 ---
 role: Epidemiology Student
-avatar_filename: jguerra-headshot.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
