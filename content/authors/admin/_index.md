@@ -32,6 +32,9 @@ education:
     - course: BA in Sociology
       institution: University of Texas at San Antonio
       year: 2020
+    - course: Diploma
+      institution: Northside Health Careers High School
+      year: 2016
 superuser: true
 highlight_name: false
 title: Joshua Guerra
