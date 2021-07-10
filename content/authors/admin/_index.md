@@ -1,5 +1,6 @@
 ---
-role: Professor of Artificial Intelligence
+role: Epidemiology Student
+avatar_filename: jguerra-headshot.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -33,7 +34,7 @@ education:
       year: 2020
 superuser: true
 highlight_name: false
-title: Nelson Bighetti
+title: Joshua Guerra
 email: ""
 ---
 
